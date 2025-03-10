@@ -44,8 +44,7 @@ Me dedico constantemente a aprender y mejorar mis habilidades. Actualmente estoy
 
 
 ### 📫 Cómo Contactarme
-- **Correo Electrónico:** bocamo@alumnatflorida.es
-- **Número de teléfono:** +34 633908473
+- **Correo Electrónico:** bcarreres55@gmail.es
 
 ---
 
