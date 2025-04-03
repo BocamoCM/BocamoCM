@@ -32,6 +32,7 @@ Gracias por visitar mi perfil.
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BorjaCarreresMompo&show_icons=true&theme=transparent) ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaCarreresMompo&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=BorjaCarreresMompo&show_icons=true&theme=transparent" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaCarreresMompo&layout=compact&theme=radical" width="500"/>
 
 
