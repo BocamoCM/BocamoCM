@@ -25,7 +25,6 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología y la innov
 ---
 ### 📫 Cómo Contactarme
 - **Correo Electrónico:** bcarreres55@gmail.es
-
 ---
 
 Gracias por visitar mi perfil.
