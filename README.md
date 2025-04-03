@@ -13,8 +13,6 @@
 
 
 
-
-
 Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología y la innovación, especializado en sistemas microinformáticos y redes. Aquí encontrarás proyectos que he desarrollado o en los que he colaborado, reflejando mis habilidades técnicas y mi compromiso con la excelencia en el ámbito de la informática.
 
 ### 🛠 Habilidades Técnicas
@@ -24,26 +22,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología y la innov
 - **Programación:** Bash scripting y Java.
 - **Herramientas:** Cisco Packet Tracer.
 - **Seguridad Informática:** Fundamentos de seguridad, firewall, protección de datos.
-
-
-
-### 🎓 Educación
-- **(ESO)Educación Secundaria Obligatoria**
-Colegio Sagrada Familia Alzira
-
-
-- **Técnico Medio en Sistemas Microinformáticos y Redes**
- Xúquer Centro Educativo 
-- **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** (Cursando)
-
-### 📚 Aprendizaje Continuo
-
-Me dedico constantemente a aprender y mejorar mis habilidades. Actualmente estoy explorando:
-
-- **Ciberseguridad:** Ampliando mis conocimientos en seguridad informática y protección de redes.
-- **Programación:** Ampliando mis conocimientos en programación desarrollando aplicaciones en java.
-
-
+---
 ### 📫 Cómo Contactarme
 - **Correo Electrónico:** bcarreres55@gmail.es
 
