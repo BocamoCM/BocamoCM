@@ -31,7 +31,6 @@ Gracias por visitar mi perfil.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=BocamoCM&show_icons=true&theme=transparent" width="500"/> 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?BocamoCM=anuraghazra&show_icons=true)
 
 
