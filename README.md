@@ -17,11 +17,14 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología y la innov
 
 ### 🛠 Habilidades Técnicas
 
-- **Sistemas Operativos:** Windows, Linux.
-- **Redes:** Configuración de routers y switches, VPN, protocolos TCP/IP.
-- **Programación:** Bash scripting, Java, HTML y CSS.
-- **Herramientas:** Cisco Packet Tracer.
-- **Seguridad Informática:** Fundamentos de seguridad, firewall, protección de datos.
+- **Sistemas Operativos:** Windows, Linux   
+- **Redes:** Configuración básica de routers/switches, VPN, TCP/IP  
+- **Programación:** Java, C/C++, HTML, CSS, Bash 
+- **Herramientas:** VSCode, IntelliJ IDEA, Git, Docker
+- **Seguridad:** Fundamentos de seguridad, firewalls, protección de datos
+- **Bases de Datos:** MySQL, SQLite  
+- **Otros:** UML, VirtualBox, Figma
+
 ---
 ### 📫 Cómo Contactarme
 - **Correo Electrónico:** bcarreres55@gmail.es
