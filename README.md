@@ -35,3 +35,6 @@ Gracias por visitar mi perfil.
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BocamoCM&show_icons=true&theme=radical)
+### 🚀 Proyectos Destacados
+
+[![Metroflip-renfe](https://github-readme-stats.vercel.app/api/pin/?username=BocamoCM&repo=Metroflip-renfe&theme=radical)](https://github.com/BocamoCM/Metroflip-renfe)
