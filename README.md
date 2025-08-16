@@ -11,12 +11,9 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo
 
 ---
 
-### 👤 whoami
+### $ whoami
 
-```bash
-$ whoami
 Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo del RFIF/NFC
-```
 
 ---
 
