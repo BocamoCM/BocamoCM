@@ -1,6 +1,10 @@
 ### $ whoami
 
-Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo del RFID/NFC
+```
+usuario@linux:~$ echo "Hola mundo!"
+```
+Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo del RFID/NFC  
+🐧 Linux enthusiast | 💻 Open Source lover
 
 ---
 
@@ -49,7 +53,7 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo
 <br><strong>MySQL</strong>
 </td>
 <td align="center" width="100">
-<img src="https://img.icons8.com/color/48/000000/cisco.png" width="48" height="48" alt="Cisco" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="48" height="48" alt="Cisco" />
 <br><strong>Cisco</strong>
 </td>
 </tr>
