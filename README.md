@@ -1,3 +1,9 @@
+### $ whoami
+
+Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo del RFID/NFC
+
+---
+
 <div align="center">
 
 ## 🚀 Tech Stack
@@ -17,14 +23,18 @@
 <br><strong>Bash</strong>
 </td>
 <td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" width="48" height="48" alt="Cisco" />
-<br><strong>Cisco</strong>
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br><strong>Java</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br><strong>C</strong>
 </td>
 </tr>
 <tr>
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br><strong>Java</strong>
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br><strong>C++</strong>
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -38,20 +48,14 @@
 <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
 <br><strong>MySQL</strong>
 </td>
+<td align="center" width="100">
+<img src="https://img.icons8.com/color/48/000000/cisco.png" width="48" height="48" alt="Cisco" />
+<br><strong>Cisco</strong>
+</td>
 </tr>
 </table>
 
----
-
 </div>
-
-Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo del RFID/NFC
-
----
-
-### $ whoami
-
-Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo del RFIF/NFC
 
 ---
 
