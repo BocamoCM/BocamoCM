@@ -1,11 +1,49 @@
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+
+## 🚀 Tech Stack
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br><strong>Linux</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="Windows" />
+<br><strong>Windows</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+<br><strong>Bash</strong>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" width="48" height="48" alt="Cisco" />
+<br><strong>Cisco</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br><strong>Java</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br><strong>MySQL</strong>
+</td>
+</tr>
+</table>
+
+---
+
+</div>
 
 Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo del RFID/NFC
 
