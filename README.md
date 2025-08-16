@@ -53,7 +53,7 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo
 <br><strong>MySQL</strong>
 </td>
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="48" height="48" alt="Cisco" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" width="48" height="48" alt="Cisco" />
 <br><strong>Cisco</strong>
 </td>
 </tr>
