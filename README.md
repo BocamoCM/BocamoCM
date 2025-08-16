@@ -7,13 +7,22 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-
-Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo del RFIF/NFC
+Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo del RFID/NFC
 
 ---
+
+### 👤 whoami
+
+```bash
+$ whoami
+Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo del RFIF/NFC
+```
+
+---
+
 ### 📫 Cómo Contactarme
 - **Correo Electrónico:** bcarreres55@gmail.es
+
 ---
 
 Gracias por visitar mi perfil.
@@ -21,9 +30,6 @@ Gracias por visitar mi perfil.
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BocamoCM&show_icons=true&theme=radical)
+
 ### 🚀 Proyectos Destacados
-
 [![Metroflip-renfe](https://github-readme-stats.vercel.app/api/pin/?username=BocamoCM&repo=Metroflip-renfe&theme=radical)](https://github.com/BocamoCM/Metroflip-renfe)
-
-
-
