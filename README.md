@@ -1,11 +1,3 @@
-### $ whoami
-
-```
-BocamoCM@linux:~$ echo "Hola mundo!"
-```
-Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo del RFID/NFC  
-🐧 Linux enthusiast | 💻 Open Source lover
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BocamoCM&color=brightgreen&style=flat-square)
@@ -13,6 +5,14 @@ Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo
 ![GitHub User's stars](https://img.shields.io/github/stars/BocamoCM?style=social)
 
 </div>
+
+### $ whoami
+
+```
+BocamoCM@linux:~$ echo "Hola mundo!"
+```
+Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo del RFID/NFC  
+Open Source lover
 
 ---
 
@@ -90,3 +90,4 @@ Gracias por visitar mi perfil.
 
 ### 🚀 Proyectos Destacados
 [![Metroflip-renfe](https://github-readme-stats.vercel.app/api/pin/?username=BocamoCM&repo=Metroflip-renfe&theme=radical)](https://github.com/BocamoCM/Metroflip-renfe)
+
