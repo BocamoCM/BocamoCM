@@ -13,17 +13,7 @@
 
 
 
-Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología y la innovación, especializado en sistemas microinformáticos y redes. Aquí encontrarás proyectos que he desarrollado o en los que he colaborado, reflejando mis habilidades técnicas y mi compromiso con la excelencia en el ámbito de la informática.
-
-### 🛠 Habilidades Técnicas
-
-- **Sistemas Operativos:** Windows, Linux   
-- **Redes:** Configuración básica de routers/switches, VPN, TCP/IP  
-- **Programación:** Java, C/C++, HTML, CSS, Bash 
-- **Herramientas:** VSCode, IntelliJ IDEA, Git, Docker
-- **Seguridad:** Fundamentos de seguridad, firewalls, protección de datos
-- **Bases de Datos:** MySQL, SQLite  
-- **Otros:** UML, VirtualBox, Figma
+Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo del RFIF/NFC
 
 ---
 ### 📫 Cómo Contactarme
@@ -38,3 +28,4 @@ Gracias por visitar mi perfil.
 ### 🚀 Proyectos Destacados
 
 [![Metroflip-renfe](https://github-readme-stats.vercel.app/api/pin/?username=BocamoCM&repo=Metroflip-renfe&theme=radical)](https://github.com/BocamoCM/Metroflip-renfe)
+
