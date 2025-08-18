@@ -9,7 +9,7 @@
 ### $ whoami
 
 ```
-BocamoCM@linux:~$ echo "Hola mundo!"
+BocamoCM@kubuntu:~$ echo "Hola mundo!"
 ```
 Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo del RFID/NFC  
 Open Source lover
@@ -89,5 +89,6 @@ Gracias por visitar mi perfil.
 
 ### 🚀 Proyectos Destacados
 [![Metroflip-renfe](https://github-readme-stats.vercel.app/api/pin/?username=BocamoCM&repo=Metroflip-renfe&theme=radical)](https://github.com/BocamoCM/Metroflip-renfe)
+
 
 
