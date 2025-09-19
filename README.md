@@ -71,10 +71,6 @@ Open Source lover
 
 ---
 
-## ⚡ Fun Facts  
-- 💳 Colecciono tarjetas RFID/NFC de diferentes tecnologías
----
-
 ### 📫 Cómo Contactarme
 - **Correo Electrónico:** bcarreres55@gmail.es
 
@@ -89,6 +85,7 @@ Gracias por visitar mi perfil.
 
 ### 🚀 Proyectos Destacados
 [![Metroflip-renfe](https://github-readme-stats.vercel.app/api/pin/?username=BocamoCM&repo=Metroflip-renfe&theme=radical)](https://github.com/BocamoCM/Metroflip-renfe)
+
 
 
 
