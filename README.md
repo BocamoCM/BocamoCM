@@ -9,7 +9,7 @@
 ### $ whoami
 
 ```
-BocamoCM@kubuntu:~$ echo "Hola mundo!"
+BocamoCM@mint:~$ echo "Hola mundo!"
 ```
 Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo del RFID/NFC  
 Open Source lover
@@ -90,6 +90,7 @@ Gracias por visitar mi perfil.
 <div align="center">
   <img src="https://raw.githubusercontent.com/BocamoCM/BocamoCM/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
+
 
 
 
