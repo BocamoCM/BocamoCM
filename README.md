@@ -90,6 +90,6 @@ Gracias por visitar mi perfil.
 <div align="center">
   <img src="https://raw.githubusercontent.com/BocamoCM/BocamoCM/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
----
+
 
 
