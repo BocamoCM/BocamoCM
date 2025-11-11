@@ -86,6 +86,10 @@ Gracias por visitar mi perfil.
 ### 🚀 Proyectos Destacados
 [![Metroflip-renfe](https://github-readme-stats.vercel.app/api/pin/?username=BocamoCM&repo=Metroflip-renfe&theme=radical)](https://github.com/BocamoCM/Metroflip-renfe)
 
-
+---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BocamoCM/BocamoCM/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+---
 
 
