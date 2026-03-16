@@ -1,18 +1,24 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=BocamoCM&color=brightgreen&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/BocamoCM?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/BocamoCM?style=social)
+# BocamoCM
+
+[![Profile Views](https://komarev.com/ghpvc/?username=BocamoCM&color=brightgreen&style=flat-square)](https://github.com/BocamoCM)
+[![GitHub followers](https://img.shields.io/github/followers/BocamoCM?style=social)](https://github.com/BocamoCM?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/BocamoCM?style=social)](https://github.com/BocamoCM)
 
 </div>
 
-### $ whoami
+---
 
+### $ whoami
+```bash
+BocamoCM@mint:~$ cat about.txt
+
+  Estudiante de DAM 🎓
+  Apasionado del mundo RFID/NFC 📡
+  Open Source enthusiast ❤️
+  Siempre aprendiendo, siempre construyendo.
 ```
-BocamoCM@mint:~$ echo "Hola mundo!"
-```
-Bienvenido a mi perfil de GitHub. Soy un estudiante de DAM y aficionado al mundo del RFID/NFC  
-Open Source lover
 
 ---
 
@@ -71,26 +77,40 @@ Open Source lover
 
 ---
 
-### 📫 Cómo Contactarme
-- **Correo Electrónico:** bcarreres55@gmail.es
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=BocamoCM&show_icons=true&theme=radical&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BocamoCM&layout=compact&theme=radical&hide_border=true" />
+
+</div>
 
 ---
 
-Gracias por visitar mi perfil.
+## 🚀 Proyectos Destacados
+
+[![Metroflip-renfe](https://github-readme-stats.vercel.app/api/pin/?username=BocamoCM&repo=Metroflip-renfe&theme=radical&hide_border=true)](https://github.com/BocamoCM/Metroflip-renfe)
+
+> Plugin para Flipper Zero que permite leer tarjetas de la red Renfe/Metro. Parte del ecosistema Metroflip.
+
+[![Alzibus](https://github-readme-stats.vercel.app/api/pin/?username=BocamoCM&repo=Alzibus&theme=radical&hide_border=true)](https://github.com/BocamoCM/Alzibus)
+
+> Aplicacion Android para consultar las lineas de autobús de la ciudad de Alzira
 
 ---
 
+## 📫 Contacto
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BocamoCM&show_icons=true&theme=radical)
-
-### 🚀 Proyectos Destacados
-[![Metroflip-renfe](https://github-readme-stats.vercel.app/api/pin/?username=BocamoCM&repo=Metroflip-renfe&theme=radical)](https://github.com/BocamoCM/Metroflip-renfe)
+- **Email:** bcarreres55@gmail.com
+- **GitHub:** [@BocamoCM](https://github.com/BocamoCM)
 
 ---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/BocamoCM/BocamoCM/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
-
-
-
+<div align="center">
+  <sub>Gracias por pasarte por aquí ✌️</sub>
+</div>
